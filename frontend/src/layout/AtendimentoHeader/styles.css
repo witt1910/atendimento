@@ -1,0 +1,8 @@
+header.ant-layout-header.atendimento-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+header.ant-layout-header.atendimento-header > button.logout-button {
+    align-self: center;
+}
